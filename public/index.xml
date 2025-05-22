@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chris Borowski | Software Developer &#43; Engineer</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Chris Borowski | Software Developer &#43; Engineer</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 May 2025 22:13:26 -0500</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>//localhost:1313/docs/test/</link>
+      <pubDate>Wed, 21 May 2025 22:13:26 -0500</pubDate>
+      <guid>//localhost:1313/docs/test/</guid>
+      <description>&lt;h3 id=&#34;this-is-a-test-page&#34;&gt;This is a test page.&lt;/h3&gt;
+&lt;p&gt;This is what a test page looks like.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
